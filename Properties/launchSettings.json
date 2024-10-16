@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Online Learning Platform": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
